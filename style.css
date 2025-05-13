@@ -1,0 +1,55 @@
+body, p, br, ul, li, td {
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: medium;
+  line-height: 1.2em;
+  color: black;
+}
+h1, h2, h3, h4, h5 {
+  color: #003399;
+  line-height: 25px;
+}
+a:link {
+  text-decoration: underline;
+}
+a:visited {
+  text-decoration: underline;
+}
+a:hover {
+  color: #66ccff;
+  text-decoration: underline;
+}
+.topmenu {
+  font-family: Verdana,Arial;
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-bottom: 0px;
+  text-align: center;
+  font-size: medium;
+  font-weight: normal;
+  background-color: #000099;
+  color: white;
+}
+a.topmenu:link {
+  color: #ffffff;
+  text-decoration: underline;
+}
+a.topmenu:visited {
+  color: #ffffff;
+  text-decoration: underline;
+}
+a.topmenu:hover {
+  color: #66ccff;
+  text-decoration: underline;
+}
+.smalltext {
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 11px;
+  line-height: 16px;
+  color: #555555;
+}
+.codetext {
+  font-family: Courier,sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color: #0000cc;
+}
