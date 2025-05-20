@@ -89,14 +89,13 @@ ul {
   list-style-type: square;      /* default solid circle */
 }
 
-input, button {
-      font-family: Arial, sans-serif;
+
+
+.btn {
+    font-family: Arial, sans-serif;
       font-size: 1rem;
       padding: 0.5rem;
       margin-top: 0.5rem;
-}
-
-button {
       background-color:   #555555;
       color: #FFAA33;
       font-size:medium;
