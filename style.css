@@ -120,6 +120,6 @@ ul {
       border-radius: 4px;
 }
 
-  .button:focus {
-    font-weight: bold;
+  .btnact:hover {
+    color: #32CD32;
   }
