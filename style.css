@@ -105,6 +105,21 @@ ul {
       border-radius: 4px;
 }
 
+
+.btnact {
+    font-family: Arial, sans-serif;
+      font-size: 1rem;
+      padding: 0.5rem;
+      margin-top: 0.5rem;
+      background-color:   #555555;
+      color: #FFAA33;
+      font-size:larger;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+}
+
   .button:focus {
     font-weight: bold;
   }
