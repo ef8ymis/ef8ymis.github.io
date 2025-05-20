@@ -1,15 +1,16 @@
 body, p, br, ul, li, td {
-  background-color: white ;
+  background-color: #353935;
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: medium;
   line-height: 1.2em;
-  color: black;
+  color: #F9F6EE;
 }
 h1, h2, h3, h4, h5 {
-  color: black;
+  color: #FFAA33;
   line-height: 44px;
 }
 a{
+  color: #8A9A5B;
  text-decoration:underline; 
 }
 a:hover {
