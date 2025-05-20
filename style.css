@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
   bottom:0;
 }
 a{
-  color: #93C572;
+  color: #66ccff;
  text-decoration:underline; 
 }
 a:hover {
@@ -112,7 +112,7 @@ ul {
       padding: 0.5rem;
       margin-top: 0.5rem;
       background-color:   #555555;
-      color: #93C572;
+      color: #66ccff;
       font-size:larger;
       font-weight: bold;
       border: none;
