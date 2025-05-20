@@ -15,7 +15,7 @@ a{
  text-decoration:underline; 
 }
 a:hover {
-  color: #32CD32;
+   font-weight: bolder;
 }
 .topmenu {
   font-family: 'Anzicar Sans', sans-serif;
@@ -122,4 +122,5 @@ ul {
 
   .btnact:hover {
     color: #32CD32;
+     font-weight: bolder;
   }
