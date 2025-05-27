@@ -95,6 +95,6 @@ footer {
   margin-left: auto;
   margin-right: auto;
   max-width: 400px;
-  width:100/* Makes it responsive */
+  width:100%/* Makes it responsive */
   height: auto;
 }
